@@ -1457,11 +1457,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.iOS\\PruebaTecnica.iOS.csproj",
+      "projectUniqueName": "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.iOS\\PruebaTecnica.iOS.csproj",
       "projectName": "PruebaTecnica.iOS",
-      "projectPath": "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.iOS\\PruebaTecnica.iOS.csproj",
+      "projectPath": "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.iOS\\PruebaTecnica.iOS.csproj",
       "packagesPath": "C:\\Users\\joalv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.iOS\\obj\\",
+      "outputPath": "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1484,8 +1484,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj": {
-              "projectPath": "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj"
+            "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj": {
+              "projectPath": "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj"
             }
           }
         }

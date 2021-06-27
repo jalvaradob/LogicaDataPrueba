@@ -841,11 +841,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj",
+      "projectUniqueName": "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj",
       "projectName": "PruebaTecnica",
-      "projectPath": "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj",
+      "projectPath": "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj",
       "packagesPath": "C:\\Users\\joalv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\obj\\",
+      "outputPath": "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

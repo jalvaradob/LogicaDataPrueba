@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.Android\\PruebaTecnica.Android.csproj": {}
+    "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.Android\\PruebaTecnica.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.Android\\PruebaTecnica.Android.csproj": {
+    "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.Android\\PruebaTecnica.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.Android\\PruebaTecnica.Android.csproj",
+        "projectUniqueName": "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.Android\\PruebaTecnica.Android.csproj",
         "projectName": "PruebaTecnica.Android",
-        "projectPath": "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.Android\\PruebaTecnica.Android.csproj",
+        "projectPath": "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.Android\\PruebaTecnica.Android.csproj",
         "packagesPath": "C:\\Users\\joalv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.Android\\obj\\",
+        "outputPath": "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -34,8 +34,8 @@
         "frameworks": {
           "monoandroid11.0": {
             "projectReferences": {
-              "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj": {
-                "projectPath": "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj"
+              "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj": {
+                "projectPath": "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj"
               }
             }
           }
@@ -56,14 +56,14 @@
         }
       }
     },
-    "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj": {
+    "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj",
+        "projectUniqueName": "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj",
         "projectName": "PruebaTecnica",
-        "projectPath": "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj",
+        "projectPath": "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj",
         "packagesPath": "C:\\Users\\joalv\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\obj\\",
+        "outputPath": "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

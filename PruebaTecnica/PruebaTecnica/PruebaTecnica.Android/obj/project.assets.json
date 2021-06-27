@@ -2383,11 +2383,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.Android\\PruebaTecnica.Android.csproj",
+      "projectUniqueName": "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.Android\\PruebaTecnica.Android.csproj",
       "projectName": "PruebaTecnica.Android",
-      "projectPath": "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.Android\\PruebaTecnica.Android.csproj",
+      "projectPath": "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.Android\\PruebaTecnica.Android.csproj",
       "packagesPath": "C:\\Users\\joalv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.Android\\obj\\",
+      "outputPath": "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2410,8 +2410,8 @@
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj": {
-              "projectPath": "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj"
+            "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj": {
+              "projectPath": "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.csproj"
             }
           }
         }

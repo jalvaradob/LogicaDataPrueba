@@ -14,7 +14,8 @@ namespace PruebaTecnica.Data
         public SQLiteManager(string dbPath)
         {
             this.db = new SQLiteAsyncConnection(dbPath);
-            //this.db.CreateTableAsync<DataModel>().Wait();
+            //this.db.DropTableAsync<DataModel>().Wait();
+            this.db.CreateTableAsync<DataModel>().Wait();
         }
 
         public async Task<DataModel> GetLastData()

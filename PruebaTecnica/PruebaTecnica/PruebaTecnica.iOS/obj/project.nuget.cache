@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EcSBZYMcsj7FCqG59qQrR09+s+/e6IQ/02g/lD4VABoXSeYVAZihv+KBCRwMd28okkQe47Byodnxjp5HURYz+w==",
+  "dgSpecHash": "TcO/fn+bDwLMrP04a6JsqaQyIBDwkVXQOc2uhcMa2XWB1puz8yOsV2v/lAvAuI8AS3J7243Kz9kcWJiQmzXpfg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joalv\\Desktop\\LogicalData\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.iOS\\PruebaTecnica.iOS.csproj",
+  "projectFilePath": "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.iOS\\PruebaTecnica.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joalv\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
     "C:\\Users\\joalv\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.3\\sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",

@@ -21,8 +21,9 @@ namespace PruebaTecnica.View
             InitializeComponent();
             BindingContext = this.context;
 
-            this.lblData1.Text = this.context.data.Data1;
-            this.lblData2.Text = this.context.data.Data2;
+            this.lblId.Text = this.context.data != null ? this.context.data.Id.ToString() : "-";
+            this.lblData1.Text = this.context.data != null ? this.context.data.Data1 : "-";
+            this.lblData2.Text = this.context.data != null ? this.context.data.Data2 : "-";
         }
 
         

@@ -9,13 +9,31 @@
 
                 <Entry Text="{Binding Data1}" Placeholder="Data #1"></Entry>
                 <Entry Text="{Binding Data2}" Placeholder="Data #2"></Entry>
-
+                <Button Text="Save data" Command="{Binding SaveCommand}" />
                 <Label Text="Last record" FontAttributes="Bold" FontSize="20" HorizontalOptions="Center" TextColor="CadetBlue" />
 
-                <Label Text="-" x:Name="lblData1" />
-                <Label Text="-" x:Name="lblData2" />
+                <Grid Grid.Column="1">
+                    <StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="Id: " FontSize="20" />
+                            <Label Text="-" x:Name="lblId" FontSize="20" FontAttributes="Bold" />
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="Data #1: " FontSize="20" />
+                            <Label Text="-" x:Name="lblData1" FontSize="20" FontAttributes="Bold" />
+                        </StackLayout>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="Data #2: " FontSize="20" />
+                            <Label Text="-" x:Name="lblData2" FontSize="20" FontAttributes="Bold" />
+                        </StackLayout>
+                    </StackLayout>
+                </Grid>
 
-                <Button Text="Save data" Command="{Binding SaveCommand}" />
+                <!--<Label Text="-" x:Name="lblId" FontSize="20" FontAttributes="Bold" />
+                <Label Text="-" x:Name="lblData1" FontSize="20" FontAttributes="Bold" />
+                <Label Text="-" x:Name="lblData2" FontSize="20" FontAttributes="Bold" />-->
+
+                
                 <!-- <Button Text="Get data" Command="{Binding GetCommand}" /> -->
             </StackLayout>
         </ScrollView>
