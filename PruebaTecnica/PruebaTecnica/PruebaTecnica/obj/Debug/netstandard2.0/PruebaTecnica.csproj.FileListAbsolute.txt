@@ -1,0 +1,15 @@
+C:\Users\joalv\Desktop\LogicalData\PruebaTecnica\PruebaTecnica\PruebaTecnica\bin\Debug\netstandard2.0\PruebaTecnica.deps.json
+C:\Users\joalv\Desktop\LogicalData\PruebaTecnica\PruebaTecnica\PruebaTecnica\bin\Debug\netstandard2.0\PruebaTecnica.dll
+C:\Users\joalv\Desktop\LogicalData\PruebaTecnica\PruebaTecnica\PruebaTecnica\bin\Debug\netstandard2.0\ref\PruebaTecnica.dll
+C:\Users\joalv\Desktop\LogicalData\PruebaTecnica\PruebaTecnica\PruebaTecnica\bin\Debug\netstandard2.0\PruebaTecnica.pdb
+C:\Users\joalv\Desktop\LogicalData\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Debug\netstandard2.0\PruebaTecnica.csproj.AssemblyReference.cache
+C:\Users\joalv\Desktop\LogicalData\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\joalv\Desktop\LogicalData\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\joalv\Desktop\LogicalData\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Debug\netstandard2.0\View\DataPage.xaml.g.cs
+C:\Users\joalv\Desktop\LogicalData\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Debug\netstandard2.0\PruebaTecnica.AssemblyInfoInputs.cache
+C:\Users\joalv\Desktop\LogicalData\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Debug\netstandard2.0\PruebaTecnica.AssemblyInfo.cs
+C:\Users\joalv\Desktop\LogicalData\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Debug\netstandard2.0\PruebaTecnica.csproj.CoreCompileInputs.cache
+C:\Users\joalv\Desktop\LogicalData\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\joalv\Desktop\LogicalData\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Debug\netstandard2.0\PruebaTecnica.dll
+C:\Users\joalv\Desktop\LogicalData\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Debug\netstandard2.0\ref\PruebaTecnica.dll
+C:\Users\joalv\Desktop\LogicalData\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Debug\netstandard2.0\PruebaTecnica.pdb

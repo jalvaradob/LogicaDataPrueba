@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PruebaTecnica.View.DataPage"
+             Title="Page #1">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="20, 20, 20, 20">
+
+                <Entry Text="{Binding Data1}" Placeholder="Data #1"></Entry>
+                <Entry Text="{Binding Data2}" Placeholder="Data #2"></Entry>
+
+                <Label Text="Last record" FontAttributes="Bold" FontSize="20" HorizontalOptions="Center" TextColor="CadetBlue" />
+
+                <Label Text="-" x:Name="lblData1" />
+                <Label Text="-" x:Name="lblData2" />
+
+                <Button Text="Save data" Command="{Binding SaveCommand}" />
+                <!-- <Button Text="Get data" Command="{Binding GetCommand}" /> -->
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

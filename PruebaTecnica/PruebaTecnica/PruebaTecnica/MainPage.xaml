@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PruebaTecnica.MainPage"
+             Title="Prueba técnica">
+
+    <StackLayout>
+        <Button Text="Page 1" HorizontalOptions="Center"  VerticalOptions="Center" Clicked="BtnPage1_Clicked"/>
+        <Button Text="Page 2" HorizontalOptions="Center"  VerticalOptions="Center" Clicked="BtnPage2_Clicked"/>
+    </StackLayout>
+
+</ContentPage>
