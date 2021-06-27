@@ -6,6 +6,6 @@ namespace PruebaTecnica.Utils
 {
     public class Constants
     {
-        public static string data1 = "";
+        public static string dbName = "assessment.db3";
     }
 }

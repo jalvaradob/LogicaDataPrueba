@@ -23,7 +23,7 @@ namespace PruebaTecnica
         }
         private async void BtnPage2_Clicked(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new NavigationPage(new DataPage()));
+            await Navigation.PushAsync(new NavigationPage(new PushNotificationPage()));
         }
     }
 }

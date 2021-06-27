@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034761474293",
+    "project_id": "assessmentld",
+    "storage_bucket": "assessmentld.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034761474293:android:b3d180fefc5ec9e32df5bc",
+        "android_client_info": {
+          "package_name": "com.jonathanalv.ld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034761474293-678sj65n32o9ls10naf4dsnk1pqn3kr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA11JnmpyJy0OmikV9RVK_RnyOvb7PVk2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034761474293-678sj65n32o9ls10naf4dsnk1pqn3kr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

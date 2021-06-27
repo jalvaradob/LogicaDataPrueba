@@ -6,7 +6,7 @@
 
     <StackLayout>
         <Button Text="Page 1" HorizontalOptions="Center"  VerticalOptions="Center" Clicked="BtnPage1_Clicked"/>
-        <Button Text="Page 2" HorizontalOptions="Center"  VerticalOptions="Center" Clicked="BtnPage2_Clicked"/>
+        <Button Text="Push Notifications" HorizontalOptions="Center"  VerticalOptions="Center" Clicked="BtnPage2_Clicked"/>
     </StackLayout>
 
 </ContentPage>

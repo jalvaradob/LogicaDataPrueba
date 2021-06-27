@@ -3,6 +3,7 @@ using PruebaTecnica.Services;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
@@ -65,7 +66,15 @@ namespace PruebaTecnica.ViewModel
             };
 
             dataService.SaveData(dataModel);
+
+            await Task.Delay(2000);
+
+            await Application.Current.MainPage.DisplayAlert("Sucess", "Data saved", "OK");
+            Clear();
+
             this.IsLoading = false;
+
+            await Application.Current.MainPage.Navigation.PopAsync();
         }
 
         private async Task Update()
@@ -95,6 +104,11 @@ namespace PruebaTecnica.ViewModel
             this.Data1 = "";
             this.Data2 = "";
             this.Id = 0;
+        }
+
+        private void ShowMessage(string message)
+        {
+            
         }
     }
 }

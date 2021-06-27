@@ -10,6 +10,7 @@
                 <Entry Text="{Binding Data1}" Placeholder="Data #1"></Entry>
                 <Entry Text="{Binding Data2}" Placeholder="Data #2"></Entry>
                 <Button Text="Save data" Command="{Binding SaveCommand}" />
+                <ActivityIndicator IsRunning="{Binding IsLoading}" IsVisible="{Binding IsLoading}" ></ActivityIndicator>
                 <Label Text="Last record" FontAttributes="Bold" FontSize="20" HorizontalOptions="Center" TextColor="CadetBlue" />
 
                 <Grid Grid.Column="1">

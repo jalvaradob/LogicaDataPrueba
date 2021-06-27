@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PruebaTecnica.View.PushNotificationPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="20, 20, 20, 20">
+                <Label Text="Push Notification" VerticalOptions="Center" HorizontalOptions="Center" FontSize="24" TextColor="CadetBlue" />
+                <Entry Text="{Binding Title}" Placeholder="Enter the subject" MaxLength="20"></Entry>
+                <Editor Text="{Binding Message}" MaxLength="200" AutoSize="TextChanges" Keyboard="Chat" Placeholder="Enter the message" ></Editor>
+                <Button Text="Send notification" Command="{Binding SendMessageCommand}" />
+
+                <Label Text="{Binding Title}" /> 
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

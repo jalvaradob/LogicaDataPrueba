@@ -19,11 +19,11 @@ namespace PruebaTecnica.View
         public DataPage()
         {
             InitializeComponent();
-            BindingContext = this.context;
+            BindingContext = context;
 
-            this.lblId.Text = this.context.data != null ? this.context.data.Id.ToString() : "-";
-            this.lblData1.Text = this.context.data != null ? this.context.data.Data1 : "-";
-            this.lblData2.Text = this.context.data != null ? this.context.data.Data2 : "-";
+            lblId.Text = context.data != null ? context.data.Id.ToString() : "-";
+            lblData1.Text = context.data != null ? context.data.Data1 : "-";
+            lblData2.Text = context.data != null ? context.data.Data2 : "-";
         }
 
         

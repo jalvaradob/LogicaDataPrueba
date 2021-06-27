@@ -1,5 +1,6 @@
 ﻿using PruebaTecnica.Data;
 using PruebaTecnica.Models;
+using PruebaTecnica.Utils;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -20,7 +21,7 @@ namespace PruebaTecnica.Services
             {
                 if (db == null)
                 {
-                    db = new SQLiteManager(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "assessment.db3"));
+                    db = new SQLiteManager(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), Constants.dbName));
                 }
 
                 return db;
@@ -29,7 +30,6 @@ namespace PruebaTecnica.Services
 
         public DataService()
         {
-            //Singleton object
             if (data == null)
             {
                 data = new ObservableCollection<DataModel>();
