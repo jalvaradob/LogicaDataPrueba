@@ -31,7 +31,7 @@ namespace PruebaTecnica.Droid
         {
             base.OnNewToken(token);
             Preferences.Set("token", token);
-            System.Diagnostics.Debug.WriteLine($"******** TOKEN: ${token}");
+            System.Diagnostics.Debug.WriteLine($"******** TOKEN: ${Preferences.Get("token", "")}");
             sedRegisterToken(token);
         }
 

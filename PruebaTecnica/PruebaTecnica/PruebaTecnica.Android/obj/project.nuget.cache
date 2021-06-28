@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oCQmhGyJyJQWKb7YxYL5wL387GXkXkIYEpXVMD32fVhzz6DPGrnoX14fuHMq/BDuZJjn//U0NIndza1zVeeOUw==",
+  "dgSpecHash": "qdN6oAdMkKWWK0Y4voi3K13uozFw7vt9mWzEzHM2gLgIj92NRcIWdc/rNa5gGKZ+4lP2hjFPDUmFC8SOW38cQQ==",
   "success": true,
   "projectFilePath": "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.Android\\PruebaTecnica.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\joalv\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\joalv\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
     "C:\\Users\\joalv\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.3\\sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
     "C:\\Users\\joalv\\.nuget\\packages\\sqlitepclraw.core\\2.0.3\\sqlitepclraw.core.2.0.3.nupkg.sha512",
