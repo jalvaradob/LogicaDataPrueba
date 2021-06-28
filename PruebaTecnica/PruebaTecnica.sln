@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaTecnica.Android", "Pr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaTecnica.iOS", "PruebaTecnica\PruebaTecnica.iOS\PruebaTecnica.iOS.csproj", "{97E7B31F-7FBC-4D4A-B752-4445B7F1CE17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaTecnica", "PruebaTecnica\PruebaTecnica\PruebaTecnica.csproj", "{D0AD4835-3621-42FC-8B0D-3BA6E502296F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PruebaTecnica", "PruebaTecnica\PruebaTecnica\PruebaTecnica.csproj", "{D0AD4835-3621-42FC-8B0D-3BA6E502296F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

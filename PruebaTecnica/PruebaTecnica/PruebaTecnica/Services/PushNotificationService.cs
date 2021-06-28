@@ -31,7 +31,7 @@ namespace PruebaTecnica.Services
             try
             {
                 var client = new HttpClient();
-                client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", Constants.firebaseKey);
+                client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue(Constants.bearerText, Constants.firebaseKey);
                 var contentRequest = new StringContent(JsonConvert.SerializeObject(request), Encoding.UTF8, Constants.applicationJson);
                 var responseApi = await client.PostAsync(new Uri(Constants.firebaseApi), contentRequest);
 

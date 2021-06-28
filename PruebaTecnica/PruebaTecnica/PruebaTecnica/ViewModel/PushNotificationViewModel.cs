@@ -30,8 +30,8 @@ namespace PruebaTecnica.ViewModel
 
         private void Clear()
         {
-            Title = "";
-            Message = "";
+            Title = string.Empty;
+            Message = string.Empty;
         }
 
         /// <summary>
@@ -49,19 +49,19 @@ namespace PruebaTecnica.ViewModel
             notification.Title = Title;
             notification.Body = Message;
             firebaseNotifyRequest.Notification = notification;
-            firebaseNotifyRequest.Priority = "high";
-            firebaseNotifyRequest.To = Preferences.Get(Constants.tokenLabel, "");
+            firebaseNotifyRequest.Priority = Constants.priorityPushNotification;
+            firebaseNotifyRequest.To = Preferences.Get(Constants.tokenText, "");
 
             bool response = await pushNotificationService.SendMessage(firebaseNotifyRequest);
 
             if (response)
             {
-                await Application.Current.MainPage.DisplayAlert("Sucess", "The notification was sent", "OK");
+                await Application.Current.MainPage.DisplayAlert(Constants.generalSuccessTitle, Constants.notificationSuccess, Constants.generalOK);
                 Clear();
             }
             else
             {
-                await Application.Current.MainPage.DisplayAlert("Error", "The notification could not be sent", "OK");
+                await Application.Current.MainPage.DisplayAlert(Constants.generalError, Constants.notificationError, Constants.generalOK);
             }
 
             IsLoading = false;

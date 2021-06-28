@@ -19,7 +19,7 @@ namespace PruebaTecnica.View
         {
             InitializeComponent();
             BindingContext = this.context;
-            System.Diagnostics.Debug.WriteLine($"******** TOKEN: ${Preferences.Get("token", "")}");
+            //System.Diagnostics.Debug.WriteLine($"******** TOKEN: ${Preferences.Get("token", "")}");
         }
     }
 }
