@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TcO/fn+bDwLMrP04a6JsqaQyIBDwkVXQOc2uhcMa2XWB1puz8yOsV2v/lAvAuI8AS3J7243Kz9kcWJiQmzXpfg==",
+  "dgSpecHash": "yeAHp/Ow+Ctz1uTT3mFm2AxcFjneD6X+O4nDh14e4C2gQyzf/rJhbHmki4oteTuSJnjvs7Uh+wGmIbfA0Vnt/g==",
   "success": true,
   "projectFilePath": "C:\\Github\\LogicaDataPrueba\\PruebaTecnica\\PruebaTecnica\\PruebaTecnica.iOS\\PruebaTecnica.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\joalv\\.nuget\\packages\\plugin.firebasepushnotification\\3.3.10\\plugin.firebasepushnotification.3.3.10.nupkg.sha512",
     "C:\\Users\\joalv\\.nuget\\packages\\sqlite-net-pcl\\1.7.335\\sqlite-net-pcl.1.7.335.nupkg.sha512",
     "C:\\Users\\joalv\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.3\\sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
     "C:\\Users\\joalv\\.nuget\\packages\\sqlitepclraw.core\\2.0.3\\sqlitepclraw.core.2.0.3.nupkg.sha512",
@@ -12,7 +13,12 @@
     "C:\\Users\\joalv\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\joalv\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\joalv\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\joalv\\.nuget\\packages\\xamarin.build.download\\0.10.0\\xamarin.build.download.0.10.0.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\joalv\\.nuget\\packages\\xamarin.firebase.ios.cloudmessaging\\4.3.0\\xamarin.firebase.ios.cloudmessaging.4.3.0.nupkg.sha512",
+    "C:\\Users\\joalv\\.nuget\\packages\\xamarin.firebase.ios.core\\6.6.6\\xamarin.firebase.ios.core.6.6.6.nupkg.sha512",
+    "C:\\Users\\joalv\\.nuget\\packages\\xamarin.firebase.ios.installations\\1.1.1\\xamarin.firebase.ios.installations.1.1.1.nupkg.sha512",
+    "C:\\Users\\joalv\\.nuget\\packages\\xamarin.firebase.ios.instanceid\\4.3.3\\xamarin.firebase.ios.instanceid.4.3.3.nupkg.sha512",
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
   ],
   "logs": []

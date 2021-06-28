@@ -3,8 +3,8 @@
 	.section	.rodata.env.str.1,"aMS",@progbits,1
 	.type	.L.env.str.1, @object
 .L.env.str.1:
-	.asciz	"com.companyname.pruebatecnica"
-	.size	.L.env.str.1, 30
+	.asciz	"com.jonathanalv.ld"
+	.size	.L.env.str.1, 19
 	.section	.data.application_config,"aw",@progbits
 	.type	application_config, @object
 	.p2align	3
@@ -73,7 +73,7 @@ mono_aot_mode_name:
 	.section	.rodata.env.str.8,"aMS",@progbits,1
 	.type	.L.env.str.8, @object
 .L.env.str.8:
-	.asciz	"42072ffd-f2db-4dc8-a247-c23ea7ae9b5d"
+	.asciz	"c66be0dc-dfa1-4639-b575-1602a86e3ee7"
 	.size	.L.env.str.8, 37
 	.section	.rodata.env.str.9,"aMS",@progbits,1
 	.type	.L.env.str.9, @object
