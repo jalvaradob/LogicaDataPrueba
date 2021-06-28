@@ -44,10 +44,6 @@
       "frameworks": {
         "monoandroid11.0": {
           "dependencies": {
-            "Plugin.FirebasePushNotification": {
-              "target": "Package",
-              "version": "[3.3.10, )"
-            },
             "Xamarin.Android.Support.Design": {
               "target": "Package",
               "version": "[28.0.0.3, )"
@@ -56,9 +52,17 @@
               "target": "Package",
               "version": "[1.6.1, )"
             },
+            "Xamarin.Firebase.Messaging": {
+              "target": "Package",
+              "version": "[122.0.0, )"
+            },
             "Xamarin.Forms": {
               "target": "Package",
               "version": "[5.0.0.2012, )"
+            },
+            "Xamarin.Google.Dagger": {
+              "target": "Package",
+              "version": "[2.37.0, )"
             },
             "Xamarin.GooglePlayServices.Base": {
               "target": "Package",
@@ -115,10 +119,6 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
-            },
-            "Plugin.FirebasePushNotification": {
-              "target": "Package",
-              "version": "[3.3.10, )"
             },
             "Xamarin.Essentials": {
               "target": "Package",

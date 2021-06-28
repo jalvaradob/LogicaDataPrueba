@@ -1,24 +1,9 @@
-PruebaTecnica.Droid.MainApplication, PruebaTecnica.Android;crc64e95dc9d49c4c9f76.MainApplication
-PruebaTecnica.Droid.MainApplication;crc64e95dc9d49c4c9f76.MainApplication
-pruebatecnica.droid.MainApplication;crc64e95dc9d49c4c9f76.MainApplication
 PruebaTecnica.Droid.MainActivity, PruebaTecnica.Android;crc64e95dc9d49c4c9f76.MainActivity
 PruebaTecnica.Droid.MainActivity;crc64e95dc9d49c4c9f76.MainActivity
 pruebatecnica.droid.MainActivity;crc64e95dc9d49c4c9f76.MainActivity
-Plugin.FirebasePushNotification.FirebasePushNotificationManager, Plugin.FirebasePushNotification;crc6494e14b9856016c30.FirebasePushNotificationManager
-Plugin.FirebasePushNotification.FirebasePushNotificationManager;crc6494e14b9856016c30.FirebasePushNotificationManager
-plugin.firebasepushnotification.FirebasePushNotificationManager;crc6494e14b9856016c30.FirebasePushNotificationManager
-Plugin.FirebasePushNotification.PNFirebaseJobService, Plugin.FirebasePushNotification;crc6494e14b9856016c30.PNFirebaseJobService
-Plugin.FirebasePushNotification.PNFirebaseJobService;crc6494e14b9856016c30.PNFirebaseJobService
-plugin.firebasepushnotification.PNFirebaseJobService;crc6494e14b9856016c30.PNFirebaseJobService
-Plugin.FirebasePushNotification.PNFirebaseMessagingService, Plugin.FirebasePushNotification;crc6494e14b9856016c30.PNFirebaseMessagingService
-Plugin.FirebasePushNotification.PNFirebaseMessagingService;crc6494e14b9856016c30.PNFirebaseMessagingService
-plugin.firebasepushnotification.PNFirebaseMessagingService;crc6494e14b9856016c30.PNFirebaseMessagingService
-Plugin.FirebasePushNotification.PushNotificationActionReceiver, Plugin.FirebasePushNotification;crc6494e14b9856016c30.PushNotificationActionReceiver
-Plugin.FirebasePushNotification.PushNotificationActionReceiver;crc6494e14b9856016c30.PushNotificationActionReceiver
-plugin.firebasepushnotification.PushNotificationActionReceiver;crc6494e14b9856016c30.PushNotificationActionReceiver
-Plugin.FirebasePushNotification.PushNotificationDeletedReceiver, Plugin.FirebasePushNotification;crc6494e14b9856016c30.PushNotificationDeletedReceiver
-Plugin.FirebasePushNotification.PushNotificationDeletedReceiver;crc6494e14b9856016c30.PushNotificationDeletedReceiver
-plugin.firebasepushnotification.PushNotificationDeletedReceiver;crc6494e14b9856016c30.PushNotificationDeletedReceiver
+PruebaTecnica.Droid.MyFirebaseMessagingService, PruebaTecnica.Android;crc64e95dc9d49c4c9f76.MyFirebaseMessagingService
+PruebaTecnica.Droid.MyFirebaseMessagingService;crc64e95dc9d49c4c9f76.MyFirebaseMessagingService
+pruebatecnica.droid.MyFirebaseMessagingService;crc64e95dc9d49c4c9f76.MyFirebaseMessagingService
 AndroidX.Activity.IOnBackPressedDispatcherOwner, Xamarin.AndroidX.Activity;androidx.activity.OnBackPressedDispatcherOwner
 AndroidX.Activity.IOnBackPressedDispatcherOwner;androidx.activity.OnBackPressedDispatcherOwner
 androidx.activity.OnBackPressedDispatcherOwner;androidx.activity.OnBackPressedDispatcherOwner
@@ -52,6 +37,9 @@ androidx.annotation.CallSuper;androidx.annotation.CallSuper
 AndroidX.Annotations.ICheckResult, Xamarin.AndroidX.Annotation;androidx.annotation.CheckResult
 AndroidX.Annotations.ICheckResult;androidx.annotation.CheckResult
 androidx.annotation.CheckResult;androidx.annotation.CheckResult
+AndroidX.Annotations.IChecksSdkIntAtLeast, Xamarin.AndroidX.Annotation;androidx.annotation.ChecksSdkIntAtLeast
+AndroidX.Annotations.IChecksSdkIntAtLeast;androidx.annotation.ChecksSdkIntAtLeast
+androidx.annotation.ChecksSdkIntAtLeast;androidx.annotation.ChecksSdkIntAtLeast
 AndroidX.Annotations.IColorInt, Xamarin.AndroidX.Annotation;androidx.annotation.ColorInt
 AndroidX.Annotations.IColorInt;androidx.annotation.ColorInt
 androidx.annotation.ColorInt;androidx.annotation.ColorInt
@@ -70,6 +58,9 @@ androidx.annotation.DimenRes;androidx.annotation.DimenRes
 AndroidX.Annotations.IDimension, Xamarin.AndroidX.Annotation;androidx.annotation.Dimension
 AndroidX.Annotations.IDimension;androidx.annotation.Dimension
 androidx.annotation.Dimension;androidx.annotation.Dimension
+AndroidX.Annotations.IDoNotInline, Xamarin.AndroidX.Annotation;androidx.annotation.DoNotInline
+AndroidX.Annotations.IDoNotInline;androidx.annotation.DoNotInline
+androidx.annotation.DoNotInline;androidx.annotation.DoNotInline
 AndroidX.Annotations.IDrawableRes, Xamarin.AndroidX.Annotation;androidx.annotation.DrawableRes
 AndroidX.Annotations.IDrawableRes;androidx.annotation.DrawableRes
 androidx.annotation.DrawableRes;androidx.annotation.DrawableRes
@@ -583,20 +574,20 @@ androidx.core.view.inputmethod.InputConnectionCompat$OnCommitContentListener;and
 AndroidX.Core.View.InputMethod.InputConnectionCompat+IOnCommitContentListenerImplementor, Xamarin.AndroidX.Core;mono.androidx.core.view.inputmethod.InputConnectionCompat_OnCommitContentListenerImplementor
 AndroidX.Core.View.InputMethod.InputConnectionCompat.IOnCommitContentListenerImplementor;mono.androidx.core.view.inputmethod.InputConnectionCompat_OnCommitContentListenerImplementor
 mono.androidx.core.view.inputmethod.InputConnectionCompat_OnCommitContentListenerImplementor;mono.androidx.core.view.inputmethod.InputConnectionCompat_OnCommitContentListenerImplementor
-AndroidX.Core.View.Accessibiity.AccessibilityManagerCompat+IAccessibilityStateChangeListener, Xamarin.AndroidX.Core;androidx.core.view.accessibility.AccessibilityManagerCompat$AccessibilityStateChangeListener
-AndroidX.Core.View.Accessibiity.AccessibilityManagerCompat.IAccessibilityStateChangeListener;androidx.core.view.accessibility.AccessibilityManagerCompat$AccessibilityStateChangeListener
+AndroidX.Core.View.Accessibility.AccessibilityManagerCompat+IAccessibilityStateChangeListener, Xamarin.AndroidX.Core;androidx.core.view.accessibility.AccessibilityManagerCompat$AccessibilityStateChangeListener
+AndroidX.Core.View.Accessibility.AccessibilityManagerCompat.IAccessibilityStateChangeListener;androidx.core.view.accessibility.AccessibilityManagerCompat$AccessibilityStateChangeListener
 androidx.core.view.accessibility.AccessibilityManagerCompat$AccessibilityStateChangeListener;androidx.core.view.accessibility.AccessibilityManagerCompat$AccessibilityStateChangeListener
-AndroidX.Core.View.Accessibiity.AccessibilityManagerCompat+IAccessibilityStateChangeListenerImplementor, Xamarin.AndroidX.Core;mono.androidx.core.view.accessibility.AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor
-AndroidX.Core.View.Accessibiity.AccessibilityManagerCompat.IAccessibilityStateChangeListenerImplementor;mono.androidx.core.view.accessibility.AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor
+AndroidX.Core.View.Accessibility.AccessibilityManagerCompat+IAccessibilityStateChangeListenerImplementor, Xamarin.AndroidX.Core;mono.androidx.core.view.accessibility.AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor
+AndroidX.Core.View.Accessibility.AccessibilityManagerCompat.IAccessibilityStateChangeListenerImplementor;mono.androidx.core.view.accessibility.AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor
 mono.androidx.core.view.accessibility.AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor;mono.androidx.core.view.accessibility.AccessibilityManagerCompat_AccessibilityStateChangeListenerImplementor
-AndroidX.Core.View.Accessibiity.AccessibilityManagerCompat+ITouchExplorationStateChangeListener, Xamarin.AndroidX.Core;androidx.core.view.accessibility.AccessibilityManagerCompat$TouchExplorationStateChangeListener
-AndroidX.Core.View.Accessibiity.AccessibilityManagerCompat.ITouchExplorationStateChangeListener;androidx.core.view.accessibility.AccessibilityManagerCompat$TouchExplorationStateChangeListener
+AndroidX.Core.View.Accessibility.AccessibilityManagerCompat+ITouchExplorationStateChangeListener, Xamarin.AndroidX.Core;androidx.core.view.accessibility.AccessibilityManagerCompat$TouchExplorationStateChangeListener
+AndroidX.Core.View.Accessibility.AccessibilityManagerCompat.ITouchExplorationStateChangeListener;androidx.core.view.accessibility.AccessibilityManagerCompat$TouchExplorationStateChangeListener
 androidx.core.view.accessibility.AccessibilityManagerCompat$TouchExplorationStateChangeListener;androidx.core.view.accessibility.AccessibilityManagerCompat$TouchExplorationStateChangeListener
-AndroidX.Core.View.Accessibiity.AccessibilityManagerCompat+ITouchExplorationStateChangeListenerImplementor, Xamarin.AndroidX.Core;mono.androidx.core.view.accessibility.AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor
-AndroidX.Core.View.Accessibiity.AccessibilityManagerCompat.ITouchExplorationStateChangeListenerImplementor;mono.androidx.core.view.accessibility.AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor
+AndroidX.Core.View.Accessibility.AccessibilityManagerCompat+ITouchExplorationStateChangeListenerImplementor, Xamarin.AndroidX.Core;mono.androidx.core.view.accessibility.AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor
+AndroidX.Core.View.Accessibility.AccessibilityManagerCompat.ITouchExplorationStateChangeListenerImplementor;mono.androidx.core.view.accessibility.AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor
 mono.androidx.core.view.accessibility.AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor;mono.androidx.core.view.accessibility.AccessibilityManagerCompat_TouchExplorationStateChangeListenerImplementor
-AndroidX.Core.View.Accessibiity.IAccessibilityViewCommand, Xamarin.AndroidX.Core;androidx.core.view.accessibility.AccessibilityViewCommand
-AndroidX.Core.View.Accessibiity.IAccessibilityViewCommand;androidx.core.view.accessibility.AccessibilityViewCommand
+AndroidX.Core.View.Accessibility.IAccessibilityViewCommand, Xamarin.AndroidX.Core;androidx.core.view.accessibility.AccessibilityViewCommand
+AndroidX.Core.View.Accessibility.IAccessibilityViewCommand;androidx.core.view.accessibility.AccessibilityViewCommand
 androidx.core.view.accessibility.AccessibilityViewCommand;androidx.core.view.accessibility.AccessibilityViewCommand
 AndroidX.Core.Util.IConsumer, Xamarin.AndroidX.Core;androidx.core.util.Consumer
 AndroidX.Core.Util.IConsumer;androidx.core.util.Consumer
@@ -1063,21 +1054,108 @@ xamarin.essentials.WebAuthenticatorCallbackActivity;crc64a0e0a82d0db9a07d.WebAut
 Xamarin.Essentials.WebAuthenticatorIntermediateActivity, Xamarin.Essentials;crc64a0e0a82d0db9a07d.WebAuthenticatorIntermediateActivity
 Xamarin.Essentials.WebAuthenticatorIntermediateActivity;crc64a0e0a82d0db9a07d.WebAuthenticatorIntermediateActivity
 xamarin.essentials.WebAuthenticatorIntermediateActivity;crc64a0e0a82d0db9a07d.WebAuthenticatorIntermediateActivity
+Firebase.Annotations.IDeferredApi, Xamarin.Firebase.Annotations;com.google.firebase.annotations.DeferredApi
+Firebase.Annotations.IDeferredApi;com.google.firebase.annotations.DeferredApi
+com.google.firebase.annotations.DeferredApi;com.google.firebase.annotations.DeferredApi
+Firebase.FirebaseApp+IBackgroundStateChangeListener, Xamarin.Firebase.Common;com.google.firebase.FirebaseApp$BackgroundStateChangeListener
+Firebase.FirebaseApp.IBackgroundStateChangeListener;com.google.firebase.FirebaseApp$BackgroundStateChangeListener
+com.google.firebase.FirebaseApp$BackgroundStateChangeListener;com.google.firebase.FirebaseApp$BackgroundStateChangeListener
 Firebase.FirebaseApp+IBackgroundStateChangeListenerImplementor, Xamarin.Firebase.Common;mono.com.google.firebase.FirebaseApp_BackgroundStateChangeListenerImplementor
 Firebase.FirebaseApp.IBackgroundStateChangeListenerImplementor;mono.com.google.firebase.FirebaseApp_BackgroundStateChangeListenerImplementor
 mono.com.google.firebase.FirebaseApp_BackgroundStateChangeListenerImplementor;mono.com.google.firebase.FirebaseApp_BackgroundStateChangeListenerImplementor
-Firebase.FirebaseApp+IIdTokenListenerImplementor, Xamarin.Firebase.Common;mono.com.google.firebase.FirebaseApp_IdTokenListenerImplementor
-Firebase.FirebaseApp.IIdTokenListenerImplementor;mono.com.google.firebase.FirebaseApp_IdTokenListenerImplementor
-mono.com.google.firebase.FirebaseApp_IdTokenListenerImplementor;mono.com.google.firebase.FirebaseApp_IdTokenListenerImplementor
-Firebase.FirebaseApp+IIdTokenListenersCountChangedListenerImplementor, Xamarin.Firebase.Common;mono.com.google.firebase.FirebaseApp_IdTokenListenersCountChangedListenerImplementor
-Firebase.FirebaseApp.IIdTokenListenersCountChangedListenerImplementor;mono.com.google.firebase.FirebaseApp_IdTokenListenersCountChangedListenerImplementor
-mono.com.google.firebase.FirebaseApp_IdTokenListenersCountChangedListenerImplementor;mono.com.google.firebase.FirebaseApp_IdTokenListenersCountChangedListenerImplementor
+Firebase.IFirebaseAppLifecycleListener, Xamarin.Firebase.Common;com.google.firebase.FirebaseAppLifecycleListener
+Firebase.IFirebaseAppLifecycleListener;com.google.firebase.FirebaseAppLifecycleListener
+com.google.firebase.FirebaseAppLifecycleListener;com.google.firebase.FirebaseAppLifecycleListener
 Firebase.IFirebaseAppLifecycleListenerImplementor, Xamarin.Firebase.Common;mono.com.google.firebase.FirebaseAppLifecycleListenerImplementor
 Firebase.IFirebaseAppLifecycleListenerImplementor;mono.com.google.firebase.FirebaseAppLifecycleListenerImplementor
 mono.com.google.firebase.FirebaseAppLifecycleListenerImplementor;mono.com.google.firebase.FirebaseAppLifecycleListenerImplementor
+Firebase.PlatformInfo.IUserAgentPublisher, Xamarin.Firebase.Common;com.google.firebase.platforminfo.UserAgentPublisher
+Firebase.PlatformInfo.IUserAgentPublisher;com.google.firebase.platforminfo.UserAgentPublisher
+com.google.firebase.platforminfo.UserAgentPublisher;com.google.firebase.platforminfo.UserAgentPublisher
+Firebase.PlatformInfo.LibraryVersionComponent+IVersionExtractor, Xamarin.Firebase.Common;com.google.firebase.platforminfo.LibraryVersionComponent$VersionExtractor
+Firebase.PlatformInfo.LibraryVersionComponent.IVersionExtractor;com.google.firebase.platforminfo.LibraryVersionComponent$VersionExtractor
+com.google.firebase.platforminfo.LibraryVersionComponent$VersionExtractor;com.google.firebase.platforminfo.LibraryVersionComponent$VersionExtractor
+Firebase.HeartBeatInfo.IHeartBeatConsumer, Xamarin.Firebase.Common;com.google.firebase.heartbeatinfo.HeartBeatConsumer
+Firebase.HeartBeatInfo.IHeartBeatConsumer;com.google.firebase.heartbeatinfo.HeartBeatConsumer
+com.google.firebase.heartbeatinfo.HeartBeatConsumer;com.google.firebase.heartbeatinfo.HeartBeatConsumer
+Firebase.HeartBeatInfo.IHeartBeatInfo, Xamarin.Firebase.Common;com.google.firebase.heartbeatinfo.HeartBeatInfo
+Firebase.HeartBeatInfo.IHeartBeatInfo;com.google.firebase.heartbeatinfo.HeartBeatInfo
+com.google.firebase.heartbeatinfo.HeartBeatInfo;com.google.firebase.heartbeatinfo.HeartBeatInfo
+Firebase.Annotations.IPublicApi, Xamarin.Firebase.Common;com.google.firebase.annotations.PublicApi
+Firebase.Annotations.IPublicApi;com.google.firebase.annotations.PublicApi
+com.google.firebase.annotations.PublicApi;com.google.firebase.annotations.PublicApi
+Firebase.Inject.IDeferredDeferredHandler, Xamarin.Firebase.Components;com.google.firebase.inject.Deferred$DeferredHandler
+Firebase.Inject.IDeferredDeferredHandler;com.google.firebase.inject.Deferred$DeferredHandler
+com.google.firebase.inject.Deferred$DeferredHandler;com.google.firebase.inject.Deferred$DeferredHandler
+Firebase.Inject.IDeferred, Xamarin.Firebase.Components;com.google.firebase.inject.Deferred
+Firebase.Inject.IDeferred;com.google.firebase.inject.Deferred
+com.google.firebase.inject.Deferred;com.google.firebase.inject.Deferred
+Firebase.Inject.IProvider, Xamarin.Firebase.Components;com.google.firebase.inject.Provider
+Firebase.Inject.IProvider;com.google.firebase.inject.Provider
+com.google.firebase.inject.Provider;com.google.firebase.inject.Provider
+Firebase.Events.IEventHandler, Xamarin.Firebase.Components;com.google.firebase.events.EventHandler
+Firebase.Events.IEventHandler;com.google.firebase.events.EventHandler
+com.google.firebase.events.EventHandler;com.google.firebase.events.EventHandler
+Firebase.Events.IPublisher, Xamarin.Firebase.Components;com.google.firebase.events.Publisher
+Firebase.Events.IPublisher;com.google.firebase.events.Publisher
+com.google.firebase.events.Publisher;com.google.firebase.events.Publisher
+Firebase.Events.ISubscriber, Xamarin.Firebase.Components;com.google.firebase.events.Subscriber
+Firebase.Events.ISubscriber;com.google.firebase.events.Subscriber
+com.google.firebase.events.Subscriber;com.google.firebase.events.Subscriber
+Firebase.DynamicLoading.IComponentLoader, Xamarin.Firebase.Components;com.google.firebase.dynamicloading.ComponentLoader
+Firebase.DynamicLoading.IComponentLoader;com.google.firebase.dynamicloading.ComponentLoader
+com.google.firebase.dynamicloading.ComponentLoader;com.google.firebase.dynamicloading.ComponentLoader
+Firebase.Components.IComponentContainer, Xamarin.Firebase.Components;com.google.firebase.components.ComponentContainer
+Firebase.Components.IComponentContainer;com.google.firebase.components.ComponentContainer
+com.google.firebase.components.ComponentContainer;com.google.firebase.components.ComponentContainer
+Firebase.Components.IComponentFactory, Xamarin.Firebase.Components;com.google.firebase.components.ComponentFactory
+Firebase.Components.IComponentFactory;com.google.firebase.components.ComponentFactory
+com.google.firebase.components.ComponentFactory;com.google.firebase.components.ComponentFactory
+Firebase.Components.IComponentRegistrar, Xamarin.Firebase.Components;com.google.firebase.components.ComponentRegistrar
+Firebase.Components.IComponentRegistrar;com.google.firebase.components.ComponentRegistrar
+com.google.firebase.components.ComponentRegistrar;com.google.firebase.components.ComponentRegistrar
+Firebase.Iid.Internal.IFirebaseInstanceIdInternalNewTokenListener, Xamarin.Firebase.Iid.Interop;com.google.firebase.iid.internal.FirebaseInstanceIdInternal$NewTokenListener
+Firebase.Iid.Internal.IFirebaseInstanceIdInternalNewTokenListener;com.google.firebase.iid.internal.FirebaseInstanceIdInternal$NewTokenListener
+com.google.firebase.iid.internal.FirebaseInstanceIdInternal$NewTokenListener;com.google.firebase.iid.internal.FirebaseInstanceIdInternal$NewTokenListener
+Firebase.Iid.Internal.IFirebaseInstanceIdInternalNewTokenListenerImplementor, Xamarin.Firebase.Iid.Interop;mono.com.google.firebase.iid.internal.FirebaseInstanceIdInternal_NewTokenListenerImplementor
+Firebase.Iid.Internal.IFirebaseInstanceIdInternalNewTokenListenerImplementor;mono.com.google.firebase.iid.internal.FirebaseInstanceIdInternal_NewTokenListenerImplementor
+mono.com.google.firebase.iid.internal.FirebaseInstanceIdInternal_NewTokenListenerImplementor;mono.com.google.firebase.iid.internal.FirebaseInstanceIdInternal_NewTokenListenerImplementor
+Firebase.Iid.Internal.IFirebaseInstanceIdInternal, Xamarin.Firebase.Iid.Interop;com.google.firebase.iid.internal.FirebaseInstanceIdInternal
+Firebase.Iid.Internal.IFirebaseInstanceIdInternal;com.google.firebase.iid.internal.FirebaseInstanceIdInternal
+com.google.firebase.iid.internal.FirebaseInstanceIdInternal;com.google.firebase.iid.internal.FirebaseInstanceIdInternal
+Firebase.Installations.Time.IClock, Xamarin.Firebase.Installations;com.google.firebase.installations.time.Clock
+Firebase.Installations.Time.IClock;com.google.firebase.installations.time.Clock
+com.google.firebase.installations.time.Clock;com.google.firebase.installations.time.Clock
+Firebase.Installations.IFirebaseInstallationsApi, Xamarin.Firebase.Installations.InterOp;com.google.firebase.installations.FirebaseInstallationsApi
+Firebase.Installations.IFirebaseInstallationsApi;com.google.firebase.installations.FirebaseInstallationsApi
+com.google.firebase.installations.FirebaseInstallationsApi;com.google.firebase.installations.FirebaseInstallationsApi
+Firebase.Installations.Internal.IFidListener, Xamarin.Firebase.Installations.InterOp;com.google.firebase.installations.internal.FidListener
+Firebase.Installations.Internal.IFidListener;com.google.firebase.installations.internal.FidListener
+com.google.firebase.installations.internal.FidListener;com.google.firebase.installations.internal.FidListener
+Firebase.Installations.Internal.IFidListenerImplementor, Xamarin.Firebase.Installations.InterOp;mono.com.google.firebase.installations.internal.FidListenerImplementor
+Firebase.Installations.Internal.IFidListenerImplementor;mono.com.google.firebase.installations.internal.FidListenerImplementor
+mono.com.google.firebase.installations.internal.FidListenerImplementor;mono.com.google.firebase.installations.internal.FidListenerImplementor
+Firebase.Installations.Internal.IFidListenerHandle, Xamarin.Firebase.Installations.InterOp;com.google.firebase.installations.internal.FidListenerHandle
+Firebase.Installations.Internal.IFidListenerHandle;com.google.firebase.installations.internal.FidListenerHandle
+com.google.firebase.installations.internal.FidListenerHandle;com.google.firebase.installations.internal.FidListenerHandle
+Firebase.Analytics.Connector.IAnalyticsConnectorAnalyticsConnectorHandle, Xamarin.Firebase.Measurement.Connector;com.google.firebase.analytics.connector.AnalyticsConnector$AnalyticsConnectorHandle
+Firebase.Analytics.Connector.IAnalyticsConnectorAnalyticsConnectorHandle;com.google.firebase.analytics.connector.AnalyticsConnector$AnalyticsConnectorHandle
+com.google.firebase.analytics.connector.AnalyticsConnector$AnalyticsConnectorHandle;com.google.firebase.analytics.connector.AnalyticsConnector$AnalyticsConnectorHandle
+Firebase.Analytics.Connector.IAnalyticsConnectorAnalyticsConnectorListener, Xamarin.Firebase.Measurement.Connector;com.google.firebase.analytics.connector.AnalyticsConnector$AnalyticsConnectorListener
+Firebase.Analytics.Connector.IAnalyticsConnectorAnalyticsConnectorListener;com.google.firebase.analytics.connector.AnalyticsConnector$AnalyticsConnectorListener
+com.google.firebase.analytics.connector.AnalyticsConnector$AnalyticsConnectorListener;com.google.firebase.analytics.connector.AnalyticsConnector$AnalyticsConnectorListener
 Firebase.Analytics.Connector.IAnalyticsConnectorAnalyticsConnectorListenerImplementor, Xamarin.Firebase.Measurement.Connector;mono.com.google.firebase.analytics.connector.AnalyticsConnector_AnalyticsConnectorListenerImplementor
 Firebase.Analytics.Connector.IAnalyticsConnectorAnalyticsConnectorListenerImplementor;mono.com.google.firebase.analytics.connector.AnalyticsConnector_AnalyticsConnectorListenerImplementor
 mono.com.google.firebase.analytics.connector.AnalyticsConnector_AnalyticsConnectorListenerImplementor;mono.com.google.firebase.analytics.connector.AnalyticsConnector_AnalyticsConnectorListenerImplementor
+Firebase.Analytics.Connector.IAnalyticsConnector, Xamarin.Firebase.Measurement.Connector;com.google.firebase.analytics.connector.AnalyticsConnector
+Firebase.Analytics.Connector.IAnalyticsConnector;com.google.firebase.analytics.connector.AnalyticsConnector
+com.google.firebase.analytics.connector.AnalyticsConnector;com.google.firebase.analytics.connector.AnalyticsConnector
+Firebase.Messaging.Constants+ScionAnalytics+IMessageType, Xamarin.Firebase.Messaging;com.google.firebase.messaging.Constants$ScionAnalytics$MessageType
+Firebase.Messaging.Constants.ScionAnalytics.IMessageType;com.google.firebase.messaging.Constants$ScionAnalytics$MessageType
+com.google.firebase.messaging.Constants$ScionAnalytics$MessageType;com.google.firebase.messaging.Constants$ScionAnalytics$MessageType
+Firebase.Messaging.RemoteMessage+IMessagePriority, Xamarin.Firebase.Messaging;com.google.firebase.messaging.RemoteMessage$MessagePriority
+Firebase.Messaging.RemoteMessage.IMessagePriority;com.google.firebase.messaging.RemoteMessage$MessagePriority
+com.google.firebase.messaging.RemoteMessage$MessagePriority;com.google.firebase.messaging.RemoteMessage$MessagePriority
 Xamarin.Forms.Platform.Android.AndroidActivity, Xamarin.Forms.Platform.Android;crc643f46942d9dd1fff9.AndroidActivity
 Xamarin.Forms.Platform.Android.AndroidActivity;crc643f46942d9dd1fff9.AndroidActivity
 xamarin.forms.platform.android.AndroidActivity;crc643f46942d9dd1fff9.AndroidActivity
@@ -1720,6 +1798,144 @@ xamarin.forms.platform.android.appcompat.TabbedPageRenderer;crc64720bb2db43a66fe
 Xamarin.Forms.Platform.Android.AppCompat.ViewRenderer`2, Xamarin.Forms.Platform.Android;crc64720bb2db43a66fe9.ViewRenderer_2
 Xamarin.Forms.Platform.Android.AppCompat.ViewRenderer`2;crc64720bb2db43a66fe9.ViewRenderer_2
 xamarin.forms.platform.android.appcompat.ViewRenderer_2;crc64720bb2db43a66fe9.ViewRenderer_2
+Xamarin.Google.Android.DataTransport.ITransformer, Xamarin.Google.Android.DataTransport.TransportApi;com.google.android.datatransport.Transformer
+Xamarin.Google.Android.DataTransport.ITransformer;com.google.android.datatransport.Transformer
+com.google.android.datatransport.Transformer;com.google.android.datatransport.Transformer
+Xamarin.Google.Android.DataTransport.ITransport, Xamarin.Google.Android.DataTransport.TransportApi;com.google.android.datatransport.Transport
+Xamarin.Google.Android.DataTransport.ITransport;com.google.android.datatransport.Transport
+com.google.android.datatransport.Transport;com.google.android.datatransport.Transport
+Xamarin.Google.Android.DataTransport.ITransportFactory, Xamarin.Google.Android.DataTransport.TransportApi;com.google.android.datatransport.TransportFactory
+Xamarin.Google.Android.DataTransport.ITransportFactory;com.google.android.datatransport.TransportFactory
+com.google.android.datatransport.TransportFactory;com.google.android.datatransport.TransportFactory
+Xamarin.Google.Android.DataTransport.ITransportScheduleCallback, Xamarin.Google.Android.DataTransport.TransportApi;com.google.android.datatransport.TransportScheduleCallback
+Xamarin.Google.Android.DataTransport.ITransportScheduleCallback;com.google.android.datatransport.TransportScheduleCallback
+com.google.android.datatransport.TransportScheduleCallback;com.google.android.datatransport.TransportScheduleCallback
+Xamarin.Google.Android.DataTransport.Runtime.IDestination, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.Destination
+Xamarin.Google.Android.DataTransport.Runtime.IDestination;com.google.android.datatransport.runtime.Destination
+com.google.android.datatransport.runtime.Destination;com.google.android.datatransport.runtime.Destination
+Xamarin.Google.Android.DataTransport.Runtime.IEncodedDestination, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.EncodedDestination
+Xamarin.Google.Android.DataTransport.Runtime.IEncodedDestination;com.google.android.datatransport.runtime.EncodedDestination
+com.google.android.datatransport.runtime.EncodedDestination;com.google.android.datatransport.runtime.EncodedDestination
+Xamarin.Google.Android.DataTransport.Runtime.Time.IClock, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.time.Clock
+Xamarin.Google.Android.DataTransport.Runtime.Time.IClock;com.google.android.datatransport.runtime.time.Clock
+com.google.android.datatransport.runtime.time.Clock;com.google.android.datatransport.runtime.time.Clock
+Xamarin.Google.Android.DataTransport.Runtime.Time.IMonotonic, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.time.Monotonic
+Xamarin.Google.Android.DataTransport.Runtime.Time.IMonotonic;com.google.android.datatransport.runtime.time.Monotonic
+com.google.android.datatransport.runtime.time.Monotonic;com.google.android.datatransport.runtime.time.Monotonic
+Xamarin.Google.Android.DataTransport.Runtime.Time.IWallTime, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.time.WallTime
+Xamarin.Google.Android.DataTransport.Runtime.Time.IWallTime;com.google.android.datatransport.runtime.time.WallTime
+com.google.android.datatransport.runtime.time.WallTime;com.google.android.datatransport.runtime.time.WallTime
+Xamarin.Google.Android.DataTransport.Runtime.Synchronization.ISynchronizationGuardCriticalSection, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.synchronization.SynchronizationGuard$CriticalSection
+Xamarin.Google.Android.DataTransport.Runtime.Synchronization.ISynchronizationGuardCriticalSection;com.google.android.datatransport.runtime.synchronization.SynchronizationGuard$CriticalSection
+com.google.android.datatransport.runtime.synchronization.SynchronizationGuard$CriticalSection;com.google.android.datatransport.runtime.synchronization.SynchronizationGuard$CriticalSection
+Xamarin.Google.Android.DataTransport.Runtime.Synchronization.ISynchronizationGuard, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.synchronization.SynchronizationGuard
+Xamarin.Google.Android.DataTransport.Runtime.Synchronization.ISynchronizationGuard;com.google.android.datatransport.runtime.synchronization.SynchronizationGuard
+com.google.android.datatransport.runtime.synchronization.SynchronizationGuard;com.google.android.datatransport.runtime.synchronization.SynchronizationGuard
+Xamarin.Google.Android.DataTransport.Runtime.Scheduling.IScheduler, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.scheduling.Scheduler
+Xamarin.Google.Android.DataTransport.Runtime.Scheduling.IScheduler;com.google.android.datatransport.runtime.scheduling.Scheduler
+com.google.android.datatransport.runtime.scheduling.Scheduler;com.google.android.datatransport.runtime.scheduling.Scheduler
+Xamarin.Google.Android.DataTransport.Runtime.Scheduling.JobScheduling.IWorkScheduler, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.scheduling.jobscheduling.WorkScheduler
+Xamarin.Google.Android.DataTransport.Runtime.Scheduling.JobScheduling.IWorkScheduler;com.google.android.datatransport.runtime.scheduling.jobscheduling.WorkScheduler
+com.google.android.datatransport.runtime.scheduling.jobscheduling.WorkScheduler;com.google.android.datatransport.runtime.scheduling.jobscheduling.WorkScheduler
+Xamarin.Google.Android.DataTransport.Runtime.Retries.IFunction, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.retries.Function
+Xamarin.Google.Android.DataTransport.Runtime.Retries.IFunction;com.google.android.datatransport.runtime.retries.Function
+com.google.android.datatransport.runtime.retries.Function;com.google.android.datatransport.runtime.retries.Function
+Xamarin.Google.Android.DataTransport.Runtime.Retries.IRetryStrategy, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.retries.RetryStrategy
+Xamarin.Google.Android.DataTransport.Runtime.Retries.IRetryStrategy;com.google.android.datatransport.runtime.retries.RetryStrategy
+com.google.android.datatransport.runtime.retries.RetryStrategy;com.google.android.datatransport.runtime.retries.RetryStrategy
+Xamarin.Google.Android.DataTransport.Runtime.Persistence.IEventStore, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.scheduling.persistence.EventStore
+Xamarin.Google.Android.DataTransport.Runtime.Persistence.IEventStore;com.google.android.datatransport.runtime.scheduling.persistence.EventStore
+com.google.android.datatransport.runtime.scheduling.persistence.EventStore;com.google.android.datatransport.runtime.scheduling.persistence.EventStore
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.IBinds, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.Binds
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.IBinds;com.google.android.datatransport.runtime.dagger.Binds
+com.google.android.datatransport.runtime.dagger.Binds;com.google.android.datatransport.runtime.dagger.Binds
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.IBindsInstance, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.BindsInstance
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.IBindsInstance;com.google.android.datatransport.runtime.dagger.BindsInstance
+com.google.android.datatransport.runtime.dagger.BindsInstance;com.google.android.datatransport.runtime.dagger.BindsInstance
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.IBindsOptionalOf, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.BindsOptionalOf
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.IBindsOptionalOf;com.google.android.datatransport.runtime.dagger.BindsOptionalOf
+com.google.android.datatransport.runtime.dagger.BindsOptionalOf;com.google.android.datatransport.runtime.dagger.BindsOptionalOf
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.IComponentBuilder, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.Component$Builder
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.IComponentBuilder;com.google.android.datatransport.runtime.dagger.Component$Builder
+com.google.android.datatransport.runtime.dagger.Component$Builder;com.google.android.datatransport.runtime.dagger.Component$Builder
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.IComponentFactory, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.Component$Factory
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.IComponentFactory;com.google.android.datatransport.runtime.dagger.Component$Factory
+com.google.android.datatransport.runtime.dagger.Component$Factory;com.google.android.datatransport.runtime.dagger.Component$Factory
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.IComponent, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.Component
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.IComponent;com.google.android.datatransport.runtime.dagger.Component
+com.google.android.datatransport.runtime.dagger.Component;com.google.android.datatransport.runtime.dagger.Component
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.ILazy, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.Lazy
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.ILazy;com.google.android.datatransport.runtime.dagger.Lazy
+com.google.android.datatransport.runtime.dagger.Lazy;com.google.android.datatransport.runtime.dagger.Lazy
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.IMapKey, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.MapKey
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.IMapKey;com.google.android.datatransport.runtime.dagger.MapKey
+com.google.android.datatransport.runtime.dagger.MapKey;com.google.android.datatransport.runtime.dagger.MapKey
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.IMembersInjector, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.MembersInjector
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.IMembersInjector;com.google.android.datatransport.runtime.dagger.MembersInjector
+com.google.android.datatransport.runtime.dagger.MembersInjector;com.google.android.datatransport.runtime.dagger.MembersInjector
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.IModule, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.Module
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.IModule;com.google.android.datatransport.runtime.dagger.Module
+com.google.android.datatransport.runtime.dagger.Module;com.google.android.datatransport.runtime.dagger.Module
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.IProvides, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.Provides
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.IProvides;com.google.android.datatransport.runtime.dagger.Provides
+com.google.android.datatransport.runtime.dagger.Provides;com.google.android.datatransport.runtime.dagger.Provides
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.IReusable, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.Reusable
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.IReusable;com.google.android.datatransport.runtime.dagger.Reusable
+com.google.android.datatransport.runtime.dagger.Reusable;com.google.android.datatransport.runtime.dagger.Reusable
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.ISubcomponentBuilder, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.Subcomponent$Builder
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.ISubcomponentBuilder;com.google.android.datatransport.runtime.dagger.Subcomponent$Builder
+com.google.android.datatransport.runtime.dagger.Subcomponent$Builder;com.google.android.datatransport.runtime.dagger.Subcomponent$Builder
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.ISubcomponentFactory, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.Subcomponent$Factory
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.ISubcomponentFactory;com.google.android.datatransport.runtime.dagger.Subcomponent$Factory
+com.google.android.datatransport.runtime.dagger.Subcomponent$Factory;com.google.android.datatransport.runtime.dagger.Subcomponent$Factory
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.ISubcomponent, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.Subcomponent
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.ISubcomponent;com.google.android.datatransport.runtime.dagger.Subcomponent
+com.google.android.datatransport.runtime.dagger.Subcomponent;com.google.android.datatransport.runtime.dagger.Subcomponent
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.MultiBindings.IClassKey, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.multibindings.ClassKey
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.MultiBindings.IClassKey;com.google.android.datatransport.runtime.dagger.multibindings.ClassKey
+com.google.android.datatransport.runtime.dagger.multibindings.ClassKey;com.google.android.datatransport.runtime.dagger.multibindings.ClassKey
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.MultiBindings.IElementsIntoSet, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.multibindings.ElementsIntoSet
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.MultiBindings.IElementsIntoSet;com.google.android.datatransport.runtime.dagger.multibindings.ElementsIntoSet
+com.google.android.datatransport.runtime.dagger.multibindings.ElementsIntoSet;com.google.android.datatransport.runtime.dagger.multibindings.ElementsIntoSet
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.MultiBindings.IIntKey, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.multibindings.IntKey
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.MultiBindings.IIntKey;com.google.android.datatransport.runtime.dagger.multibindings.IntKey
+com.google.android.datatransport.runtime.dagger.multibindings.IntKey;com.google.android.datatransport.runtime.dagger.multibindings.IntKey
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.MultiBindings.IIntoMap, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.multibindings.IntoMap
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.MultiBindings.IIntoMap;com.google.android.datatransport.runtime.dagger.multibindings.IntoMap
+com.google.android.datatransport.runtime.dagger.multibindings.IntoMap;com.google.android.datatransport.runtime.dagger.multibindings.IntoMap
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.MultiBindings.IIntoSet, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.multibindings.IntoSet
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.MultiBindings.IIntoSet;com.google.android.datatransport.runtime.dagger.multibindings.IntoSet
+com.google.android.datatransport.runtime.dagger.multibindings.IntoSet;com.google.android.datatransport.runtime.dagger.multibindings.IntoSet
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.MultiBindings.ILongKey, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.multibindings.LongKey
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.MultiBindings.ILongKey;com.google.android.datatransport.runtime.dagger.multibindings.LongKey
+com.google.android.datatransport.runtime.dagger.multibindings.LongKey;com.google.android.datatransport.runtime.dagger.multibindings.LongKey
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.MultiBindings.IMultibinds, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.multibindings.Multibinds
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.MultiBindings.IMultibinds;com.google.android.datatransport.runtime.dagger.multibindings.Multibinds
+com.google.android.datatransport.runtime.dagger.multibindings.Multibinds;com.google.android.datatransport.runtime.dagger.multibindings.Multibinds
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.MultiBindings.IStringKey, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.multibindings.StringKey
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.MultiBindings.IStringKey;com.google.android.datatransport.runtime.dagger.multibindings.StringKey
+com.google.android.datatransport.runtime.dagger.multibindings.StringKey;com.google.android.datatransport.runtime.dagger.multibindings.StringKey
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.Internal.IBeta, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.internal.Beta
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.Internal.IBeta;com.google.android.datatransport.runtime.dagger.internal.Beta
+com.google.android.datatransport.runtime.dagger.internal.Beta;com.google.android.datatransport.runtime.dagger.internal.Beta
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.Internal.IComponentDefinitionType, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.internal.ComponentDefinitionType
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.Internal.IComponentDefinitionType;com.google.android.datatransport.runtime.dagger.internal.ComponentDefinitionType
+com.google.android.datatransport.runtime.dagger.internal.ComponentDefinitionType;com.google.android.datatransport.runtime.dagger.internal.ComponentDefinitionType
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.Internal.IGwtIncompatible, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.internal.GwtIncompatible
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.Internal.IGwtIncompatible;com.google.android.datatransport.runtime.dagger.internal.GwtIncompatible
+com.google.android.datatransport.runtime.dagger.internal.GwtIncompatible;com.google.android.datatransport.runtime.dagger.internal.GwtIncompatible
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.Internal.IInjectedFieldSignature, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.dagger.internal.InjectedFieldSignature
+Xamarin.Google.Android.DataTransport.Runtime.Dagger.Internal.IInjectedFieldSignature;com.google.android.datatransport.runtime.dagger.internal.InjectedFieldSignature
+com.google.android.datatransport.runtime.dagger.internal.InjectedFieldSignature;com.google.android.datatransport.runtime.dagger.internal.InjectedFieldSignature
+Xamarin.Google.Android.DataTransport.Runtime.Backends.IBackendFactory, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.backends.BackendFactory
+Xamarin.Google.Android.DataTransport.Runtime.Backends.IBackendFactory;com.google.android.datatransport.runtime.backends.BackendFactory
+com.google.android.datatransport.runtime.backends.BackendFactory;com.google.android.datatransport.runtime.backends.BackendFactory
+Xamarin.Google.Android.DataTransport.Runtime.Backends.IBackendRegistry, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.backends.BackendRegistry
+Xamarin.Google.Android.DataTransport.Runtime.Backends.IBackendRegistry;com.google.android.datatransport.runtime.backends.BackendRegistry
+com.google.android.datatransport.runtime.backends.BackendRegistry;com.google.android.datatransport.runtime.backends.BackendRegistry
+Xamarin.Google.Android.DataTransport.Runtime.Backends.ITransportBackend, Xamarin.Google.Android.DataTransport.TransportRuntime;com.google.android.datatransport.runtime.backends.TransportBackend
+Xamarin.Google.Android.DataTransport.Runtime.Backends.ITransportBackend;com.google.android.datatransport.runtime.backends.TransportBackend
+com.google.android.datatransport.runtime.backends.TransportBackend;com.google.android.datatransport.runtime.backends.TransportBackend
 Google.Android.Material.Transition.IVisibilityAnimatorProvider, Xamarin.Google.Android.Material;com.google.android.material.transition.VisibilityAnimatorProvider
 Google.Android.Material.Transition.IVisibilityAnimatorProvider;com.google.android.material.transition.VisibilityAnimatorProvider
 com.google.android.material.transition.VisibilityAnimatorProvider;com.google.android.material.transition.VisibilityAnimatorProvider
@@ -2005,6 +2221,99 @@ mono.com.google.android.material.appbar.AppBarLayout_OnOffsetChangedListenerImpl
 Google.Android.Material.Animation.ITransformationCallback, Xamarin.Google.Android.Material;com.google.android.material.animation.TransformationCallback
 Google.Android.Material.Animation.ITransformationCallback;com.google.android.material.animation.TransformationCallback
 com.google.android.material.animation.TransformationCallback;com.google.android.material.animation.TransformationCallback
+Dagger.IBinds, Xamarin.Google.Dagger;dagger.Binds
+Dagger.IBinds;dagger.Binds
+dagger.Binds;dagger.Binds
+Dagger.IBindsInstance, Xamarin.Google.Dagger;dagger.BindsInstance
+Dagger.IBindsInstance;dagger.BindsInstance
+dagger.BindsInstance;dagger.BindsInstance
+Dagger.IBindsOptionalOf, Xamarin.Google.Dagger;dagger.BindsOptionalOf
+Dagger.IBindsOptionalOf;dagger.BindsOptionalOf
+dagger.BindsOptionalOf;dagger.BindsOptionalOf
+Dagger.IComponentBuilder, Xamarin.Google.Dagger;dagger.Component$Builder
+Dagger.IComponentBuilder;dagger.Component$Builder
+dagger.Component$Builder;dagger.Component$Builder
+Dagger.IComponentFactory, Xamarin.Google.Dagger;dagger.Component$Factory
+Dagger.IComponentFactory;dagger.Component$Factory
+dagger.Component$Factory;dagger.Component$Factory
+Dagger.IComponent, Xamarin.Google.Dagger;dagger.Component
+Dagger.IComponent;dagger.Component
+dagger.Component;dagger.Component
+Dagger.ILazy, Xamarin.Google.Dagger;dagger.Lazy
+Dagger.ILazy;dagger.Lazy
+dagger.Lazy;dagger.Lazy
+Dagger.IMapKey, Xamarin.Google.Dagger;dagger.MapKey
+Dagger.IMapKey;dagger.MapKey
+dagger.MapKey;dagger.MapKey
+Dagger.IMembersInjector, Xamarin.Google.Dagger;dagger.MembersInjector
+Dagger.IMembersInjector;dagger.MembersInjector
+dagger.MembersInjector;dagger.MembersInjector
+Dagger.IModule, Xamarin.Google.Dagger;dagger.Module
+Dagger.IModule;dagger.Module
+dagger.Module;dagger.Module
+Dagger.IProvides, Xamarin.Google.Dagger;dagger.Provides
+Dagger.IProvides;dagger.Provides
+dagger.Provides;dagger.Provides
+Dagger.IReusable, Xamarin.Google.Dagger;dagger.Reusable
+Dagger.IReusable;dagger.Reusable
+dagger.Reusable;dagger.Reusable
+Dagger.ISubcomponentBuilder, Xamarin.Google.Dagger;dagger.Subcomponent$Builder
+Dagger.ISubcomponentBuilder;dagger.Subcomponent$Builder
+dagger.Subcomponent$Builder;dagger.Subcomponent$Builder
+Dagger.ISubcomponentFactory, Xamarin.Google.Dagger;dagger.Subcomponent$Factory
+Dagger.ISubcomponentFactory;dagger.Subcomponent$Factory
+dagger.Subcomponent$Factory;dagger.Subcomponent$Factory
+Dagger.ISubcomponent, Xamarin.Google.Dagger;dagger.Subcomponent
+Dagger.ISubcomponent;dagger.Subcomponent
+dagger.Subcomponent;dagger.Subcomponent
+Dagger.Multibindings.IClassKey, Xamarin.Google.Dagger;dagger.multibindings.ClassKey
+Dagger.Multibindings.IClassKey;dagger.multibindings.ClassKey
+dagger.multibindings.ClassKey;dagger.multibindings.ClassKey
+Dagger.Multibindings.IElementsIntoSet, Xamarin.Google.Dagger;dagger.multibindings.ElementsIntoSet
+Dagger.Multibindings.IElementsIntoSet;dagger.multibindings.ElementsIntoSet
+dagger.multibindings.ElementsIntoSet;dagger.multibindings.ElementsIntoSet
+Dagger.Multibindings.IIntKey, Xamarin.Google.Dagger;dagger.multibindings.IntKey
+Dagger.Multibindings.IIntKey;dagger.multibindings.IntKey
+dagger.multibindings.IntKey;dagger.multibindings.IntKey
+Dagger.Multibindings.IIntoMap, Xamarin.Google.Dagger;dagger.multibindings.IntoMap
+Dagger.Multibindings.IIntoMap;dagger.multibindings.IntoMap
+dagger.multibindings.IntoMap;dagger.multibindings.IntoMap
+Dagger.Multibindings.IIntoSet, Xamarin.Google.Dagger;dagger.multibindings.IntoSet
+Dagger.Multibindings.IIntoSet;dagger.multibindings.IntoSet
+dagger.multibindings.IntoSet;dagger.multibindings.IntoSet
+Dagger.Multibindings.ILongKey, Xamarin.Google.Dagger;dagger.multibindings.LongKey
+Dagger.Multibindings.ILongKey;dagger.multibindings.LongKey
+dagger.multibindings.LongKey;dagger.multibindings.LongKey
+Dagger.Multibindings.IMultibinds, Xamarin.Google.Dagger;dagger.multibindings.Multibinds
+Dagger.Multibindings.IMultibinds;dagger.multibindings.Multibinds
+dagger.multibindings.Multibinds;dagger.multibindings.Multibinds
+Dagger.Multibindings.IStringKey, Xamarin.Google.Dagger;dagger.multibindings.StringKey
+Dagger.Multibindings.IStringKey;dagger.multibindings.StringKey
+dagger.multibindings.StringKey;dagger.multibindings.StringKey
+Dagger.Assisted.IAssisted, Xamarin.Google.Dagger;dagger.assisted.Assisted
+Dagger.Assisted.IAssisted;dagger.assisted.Assisted
+dagger.assisted.Assisted;dagger.assisted.Assisted
+Dagger.Assisted.IAssistedFactory, Xamarin.Google.Dagger;dagger.assisted.AssistedFactory
+Dagger.Assisted.IAssistedFactory;dagger.assisted.AssistedFactory
+dagger.assisted.AssistedFactory;dagger.assisted.AssistedFactory
+Dagger.Assisted.IAssistedInject, Xamarin.Google.Dagger;dagger.assisted.AssistedInject
+Dagger.Assisted.IAssistedInject;dagger.assisted.AssistedInject
+dagger.assisted.AssistedInject;dagger.assisted.AssistedInject
+Dagger.Internal.IBeta, Xamarin.Google.Dagger;dagger.internal.Beta
+Dagger.Internal.IBeta;dagger.internal.Beta
+dagger.internal.Beta;dagger.internal.Beta
+Dagger.Internal.IComponentDefinitionType, Xamarin.Google.Dagger;dagger.internal.ComponentDefinitionType
+Dagger.Internal.IComponentDefinitionType;dagger.internal.ComponentDefinitionType
+dagger.internal.ComponentDefinitionType;dagger.internal.ComponentDefinitionType
+Dagger.Internal.IDaggerGenerated, Xamarin.Google.Dagger;dagger.internal.DaggerGenerated
+Dagger.Internal.IDaggerGenerated;dagger.internal.DaggerGenerated
+dagger.internal.DaggerGenerated;dagger.internal.DaggerGenerated
+Dagger.Internal.IGwtIncompatible, Xamarin.Google.Dagger;dagger.internal.GwtIncompatible
+Dagger.Internal.IGwtIncompatible;dagger.internal.GwtIncompatible
+dagger.internal.GwtIncompatible;dagger.internal.GwtIncompatible
+Dagger.Internal.IInjectedFieldSignature, Xamarin.Google.Dagger;dagger.internal.InjectedFieldSignature
+Dagger.Internal.IInjectedFieldSignature;dagger.internal.InjectedFieldSignature
+dagger.internal.InjectedFieldSignature;dagger.internal.InjectedFieldSignature
 Google.Common.Util.Concurrent.IListenableFuture, Xamarin.Google.Guava.ListenableFuture;com.google.common.util.concurrent.ListenableFuture
 Google.Common.Util.Concurrent.IListenableFuture;com.google.common.util.concurrent.ListenableFuture
 com.google.common.util.concurrent.ListenableFuture;com.google.common.util.concurrent.ListenableFuture
@@ -2254,6 +2563,12 @@ com.google.android.gms.common.api.internal.LifecycleFragment;com.google.android.
 Android.Gms.Common.Apis.Internal.IStatusExceptionMapper, Xamarin.GooglePlayServices.Basement;com.google.android.gms.common.api.internal.StatusExceptionMapper
 Android.Gms.Common.Apis.Internal.IStatusExceptionMapper;com.google.android.gms.common.api.internal.StatusExceptionMapper
 com.google.android.gms.common.api.internal.StatusExceptionMapper;com.google.android.gms.common.api.internal.StatusExceptionMapper
+Android.Gms.CloudMessaging.CloudMessage+IMessagePriority, Xamarin.GooglePlayServices.CloudMessaging;com.google.android.gms.cloudmessaging.CloudMessage$MessagePriority
+Android.Gms.CloudMessaging.CloudMessage.IMessagePriority;com.google.android.gms.cloudmessaging.CloudMessage$MessagePriority
+com.google.android.gms.cloudmessaging.CloudMessage$MessagePriority;com.google.android.gms.cloudmessaging.CloudMessage$MessagePriority
+Android.Gms.Stats.ICodePackage, Xamarin.GooglePlayServices.Stats;com.google.android.gms.stats.CodePackage
+Android.Gms.Stats.ICodePackage;com.google.android.gms.stats.CodePackage
+com.google.android.gms.stats.CodePackage;com.google.android.gms.stats.CodePackage
 Android.Gms.Tasks.IContinuation, Xamarin.GooglePlayServices.Tasks;com.google.android.gms.tasks.Continuation
 Android.Gms.Tasks.IContinuation;com.google.android.gms.tasks.Continuation
 com.google.android.gms.tasks.Continuation;com.google.android.gms.tasks.Continuation

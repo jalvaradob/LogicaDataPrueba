@@ -17,6 +17,7 @@ C:\Github\LogicaDataPrueba\PruebaTecnica\PruebaTecnica\PruebaTecnica\bin\Debug\n
 C:\Github\LogicaDataPrueba\PruebaTecnica\PruebaTecnica\PruebaTecnica\bin\Debug\netstandard2.0\PruebaTecnica.dll
 C:\Github\LogicaDataPrueba\PruebaTecnica\PruebaTecnica\PruebaTecnica\bin\Debug\netstandard2.0\ref\PruebaTecnica.dll
 C:\Github\LogicaDataPrueba\PruebaTecnica\PruebaTecnica\PruebaTecnica\bin\Debug\netstandard2.0\PruebaTecnica.pdb
+C:\Github\LogicaDataPrueba\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Debug\netstandard2.0\PruebaTecnica.csproj.AssemblyReference.cache
 C:\Github\LogicaDataPrueba\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Github\LogicaDataPrueba\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 C:\Github\LogicaDataPrueba\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Debug\netstandard2.0\View\DataPage.xaml.g.cs
@@ -28,4 +29,3 @@ C:\Github\LogicaDataPrueba\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Debug\n
 C:\Github\LogicaDataPrueba\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Debug\netstandard2.0\PruebaTecnica.dll
 C:\Github\LogicaDataPrueba\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Debug\netstandard2.0\ref\PruebaTecnica.dll
 C:\Github\LogicaDataPrueba\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Debug\netstandard2.0\PruebaTecnica.pdb
-C:\Github\LogicaDataPrueba\PruebaTecnica\PruebaTecnica\PruebaTecnica\obj\Debug\netstandard2.0\PruebaTecnica.csproj.AssemblyReference.cache
